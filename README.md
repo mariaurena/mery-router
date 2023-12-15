@@ -1,5 +1,9 @@
 # Crea un React Router desde cero:
 
+Siguiendo tutorial de midudev disponible en:
+
+https://github.com/midudev/aprendiendo-react
+
 - Instalar el linter
 - Crear una forma de hacer MPAs (Multiple Page Application)
 - Crea una forma de hacer SPAs (Single Page Applications)
